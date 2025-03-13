@@ -1,4 +1,4 @@
- Description
+ Description:
 Fraud SMS Detector is a machine-learning-based tool that helps detect spam or fraudulent messages. It can analyze SMS text input and even extract text from images to determine whether the content is fraudulent or safe.
 
 🔹 Key Features:
