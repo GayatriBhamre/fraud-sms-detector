@@ -1,0 +1,13 @@
+
+opencv-python
+pytesseract
+pandas
+numpy
+Pillow
+ipywidgets
+scikit-learn
+
+Install dependencies:
+
+sh
+pip install -r requirements.txt

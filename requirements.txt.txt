@@ -1,0 +1,7 @@
+opencv-python
+pytesseract
+pandas
+numpy
+Pillow
+ipywidgets
+scikit-learn
